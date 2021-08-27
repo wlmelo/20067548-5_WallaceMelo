@@ -66,6 +66,4 @@ SABA, Lígia. 10 doces típicos do Brasil. Diário do Estado, 24 mai. 2021. List
 > <b>Professores</b>:  
   <a href="https://github.com/rafaelflorindo">Rafael Alves Florindo</a>  
   <a href="https://github.com/eduardobona">Eduardo Herbert Ribeiro Bona</a>    
-  <a href="https://github.com/Wellington-Yoshida">Wellington Issami Yoshida</a>       
-  
-<br><br>
+  <a href="https://github.com/Wellington-Yoshida">Wellington Issami Yoshida</a><br>
