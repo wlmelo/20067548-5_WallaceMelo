@@ -1,4 +1,3 @@
-<br>
 # Doceria Paraty
 
 ## Sobre o Projeto
