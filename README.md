@@ -1,5 +1,7 @@
 # Doceria Paraty
 
+<br><br>
+
 ## Sobre o Projeto
 
 > Atividade acadêmica, tratando-se de um sistema web simples, desenvolvido para uma loja de doces fictícia.
